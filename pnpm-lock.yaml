@@ -36,12 +36,6 @@ importers:
         specifier: ^5.2.2
         version: 5.2.2
 
-  packages/math-helpers:
-    dependencies:
-      typescript:
-        specifier: latest
-        version: 5.2.2
-
   packages/network:
     dependencies:
       core:
