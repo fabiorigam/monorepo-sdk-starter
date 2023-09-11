@@ -9,6 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "private": true,
+    "workspaces": [
+        "packages/*"
+    ],
   "devDependencies": {
     "turbo": "^1.10.13"
   }
